@@ -14,3 +14,7 @@ def mul(a,b):
 
 def name(a):
     return a
+
+def rollno(b):
+    return b
+    
