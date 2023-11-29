@@ -14,3 +14,7 @@ def mul(a,b):
 
 def name(a):
     return a
+
+def classe(a,b):
+    return a-b
+
