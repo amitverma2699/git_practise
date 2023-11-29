@@ -18,3 +18,6 @@ def name(a):
 def classe(a,b):
     return a-b
 
+def rollno(b):
+    return b
+    
